@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|c:\\users\\adamtrommlitz\\source\\repos\\mission10_bowling\\backend\\bowlingapi\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|solutionrelative:controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|c:\\users\\adamtrommlitz\\source\\repos\\mission10_bowling\\backend\\bowlingapi\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|c:\\users\\adamtrommlitz\\source\\repos\\mission10_bowling\\backend\\bowlingapi\\models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|solutionrelative:models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|c:\\users\\adamtrommlitz\\source\\repos\\mission10_bowling\\backend\\bowlingapi\\models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|solutionrelative:models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|c:\\users\\adamtrommlitz\\source\\repos\\mission10_bowling\\backend\\bowlingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|c:\\users\\adamtrommlitz\\source\\repos\\mission10_bowling\\backend\\bowlingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|c:\\users\\adamtrommlitz\\source\\repos\\mission10_bowling\\backend\\bowlingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35F8B5AA-6507-41E1-9E21-563C9FF19BF1}|BowlingAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAAA8AAAAQmpmZmXk1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T23:51:14.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Models\\EFBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Models\\EFBowlingRepository.cs",
+              "RelativeToolTip": "Models\\EFBowlingRepository.cs",
+              "ViewState": "AQIAAAIAAACAzszMzMwHwBEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:58:17.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Models\\IBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Models\\IBowlingRepository.cs",
+              "RelativeToolTip": "Models\\IBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:56:43.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingController.cs",
+              "DocumentMoniker": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Controllers\\BowlingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingController.cs",
+              "ToolTip": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Controllers\\BowlingController.cs",
+              "RelativeToolTip": "Controllers\\BowlingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:54:52.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABEAAABAZmZmZmYUwBQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T04:02:30.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAANDMzM7MiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:31:03.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adamtrommlitz\\source\\repos\\Mission10_Bowling\\backend\\BowlingAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T01:29:38.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
